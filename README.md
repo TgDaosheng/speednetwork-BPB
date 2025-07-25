@@ -3,7 +3,7 @@
 ### 🌏面板截图 
 
 <p align="center">
-  <img src="docs/assets/images/panel-overview.jpg">
+  <img src="https://github.com/TgDaosheng/Fork-BPB-Panel/blob/main/docs/assets/images/panel-overview.jpg?raw=true">
 </p>
 <br>
 
