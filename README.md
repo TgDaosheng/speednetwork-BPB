@@ -3,7 +3,7 @@
 ### 🌏面板截图 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bia-pain-bache/BPB-Worker-Panel/main/docs/assets/images/Panel.jpg">
+  <img src="docs/assets/images/panel-overview.jpg">
 </p>
 <br>
 
